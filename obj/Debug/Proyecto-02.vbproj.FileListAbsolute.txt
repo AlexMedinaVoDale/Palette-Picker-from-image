@@ -1,0 +1,11 @@
+C:\Users\AlexMedina\source\repos\Proyecto-02\Proyecto-02\bin\Debug\Proyecto-02.exe
+C:\Users\AlexMedina\source\repos\Proyecto-02\Proyecto-02\bin\Debug\Proyecto-02.pdb
+C:\Users\AlexMedina\source\repos\Proyecto-02\Proyecto-02\bin\Debug\Proyecto-02.xml
+C:\Users\AlexMedina\source\repos\Proyecto-02\Proyecto-02\obj\Debug\Proyecto-02.vbprojResolveAssemblyReference.cache
+C:\Users\AlexMedina\source\repos\Proyecto-02\Proyecto-02\obj\Debug\Proyecto_02.Form1.resources
+C:\Users\AlexMedina\source\repos\Proyecto-02\Proyecto-02\obj\Debug\Proyecto_02.Resources.resources
+C:\Users\AlexMedina\source\repos\Proyecto-02\Proyecto-02\obj\Debug\Proyecto-02.vbproj.GenerateResource.Cache
+C:\Users\AlexMedina\source\repos\Proyecto-02\Proyecto-02\obj\Debug\Proyecto-02.vbproj.CoreCompileInputs.cache
+C:\Users\AlexMedina\source\repos\Proyecto-02\Proyecto-02\obj\Debug\Proyecto-02.exe
+C:\Users\AlexMedina\source\repos\Proyecto-02\Proyecto-02\obj\Debug\Proyecto-02.xml
+C:\Users\AlexMedina\source\repos\Proyecto-02\Proyecto-02\obj\Debug\Proyecto-02.pdb

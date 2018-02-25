@@ -1,0 +1,20 @@
+C:\Users\AlexMedina\source\repos\Proyecto-02\Proyecto-02\bin\Debug\Palette Picker.exe
+C:\Users\AlexMedina\source\repos\Proyecto-02\Proyecto-02\bin\Debug\Palette Picker.pdb
+C:\Users\AlexMedina\source\repos\Proyecto-02\Proyecto-02\bin\Debug\Palette Picker.xml
+C:\Users\AlexMedina\source\repos\Proyecto-02\Proyecto-02\obj\Debug\Palette_Picker.Form1.resources
+C:\Users\AlexMedina\source\repos\Proyecto-02\Proyecto-02\obj\Debug\Palette_Picker.Resources.resources
+C:\Users\AlexMedina\source\repos\Proyecto-02\Proyecto-02\obj\Debug\Palette Picker.vbproj.GenerateResource.Cache
+C:\Users\AlexMedina\source\repos\Proyecto-02\Proyecto-02\obj\Debug\Palette Picker.vbproj.CoreCompileInputs.cache
+C:\Users\AlexMedina\source\repos\Proyecto-02\Proyecto-02\obj\Debug\Palette Picker.exe
+C:\Users\AlexMedina\source\repos\Proyecto-02\Proyecto-02\obj\Debug\Palette Picker.xml
+C:\Users\AlexMedina\source\repos\Proyecto-02\Proyecto-02\obj\Debug\Palette Picker.pdb
+C:\Users\AlexMedina\source\repos\Proyecto-02\Palette Picker\bin\Debug\Palette Picker.exe
+C:\Users\AlexMedina\source\repos\Proyecto-02\Palette Picker\bin\Debug\Palette Picker.pdb
+C:\Users\AlexMedina\source\repos\Proyecto-02\Palette Picker\bin\Debug\Palette Picker.xml
+C:\Users\AlexMedina\source\repos\Proyecto-02\Palette Picker\obj\Debug\Palette_Picker.Form1.resources
+C:\Users\AlexMedina\source\repos\Proyecto-02\Palette Picker\obj\Debug\Palette_Picker.Resources.resources
+C:\Users\AlexMedina\source\repos\Proyecto-02\Palette Picker\obj\Debug\Palette Picker.vbproj.GenerateResource.Cache
+C:\Users\AlexMedina\source\repos\Proyecto-02\Palette Picker\obj\Debug\Palette Picker.vbproj.CoreCompileInputs.cache
+C:\Users\AlexMedina\source\repos\Proyecto-02\Palette Picker\obj\Debug\Palette Picker.exe
+C:\Users\AlexMedina\source\repos\Proyecto-02\Palette Picker\obj\Debug\Palette Picker.xml
+C:\Users\AlexMedina\source\repos\Proyecto-02\Palette Picker\obj\Debug\Palette Picker.pdb
